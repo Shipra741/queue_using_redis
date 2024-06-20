@@ -9,5 +9,5 @@ commands to start redis under docker
 (use all the 4 commands when working with cli)
 
 commands to run on vscode
-npm init -y
-npm i express dotenv mongoose ioredis redis
+ npm init -y
+ npm i express dotenv mongoose ioredis redis
